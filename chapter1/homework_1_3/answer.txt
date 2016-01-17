@@ -1,0 +1,7 @@
+# terminal 1
+$ python hw1-3.py
+
+# terminal 2
+$ curl http://localhost:8080/hw1/50
+
+Answer: 53

@@ -1,0 +1,3 @@
+$ python hw1-2.py
+
+Answer: 1815
