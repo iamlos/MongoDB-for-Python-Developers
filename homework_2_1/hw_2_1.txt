@@ -1,0 +1,4 @@
+> db.grades.find({score:{$gt:65}}).sort({score:1})
+
+Answer: 22
+{ "_id" : ObjectId("50906d7fa3c412bb040eb5cf"), "student_id" : 22, "type" : "exam", "score" : 65.02518811936324 }
